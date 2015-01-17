@@ -10,22 +10,26 @@
 	<string>Banner</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>BF891C2EC18FFF15CDB04ACE153DDE5ADB367021</key>
+		<string>https://github.com/Nitin88gupta/iOS-Customized-Banner.git</string>
 		<key>F1FF5D591921F4F078C0BABEDC69B540707E7914</key>
 		<string>https://github.com/Nitin88gupta/IOS.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Banner/Banner.xcodeproj/project.xcworkspace</string>
+	<string>Banner/Banner.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>F1FF5D591921F4F078C0BABEDC69B540707E7914</key>
+		<key>BF891C2EC18FFF15CDB04ACE153DDE5ADB367021</key>
 		<string>../../..</string>
+		<key>F1FF5D591921F4F078C0BABEDC69B540707E7914</key>
+		<string>../../../../IOS</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/Nitin88gupta/IOS.git</string>
+	<string>https://github.com/Nitin88gupta/iOS-Customized-Banner.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>F1FF5D591921F4F078C0BABEDC69B540707E7914</string>
+	<string>BF891C2EC18FFF15CDB04ACE153DDE5ADB367021</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>F1FF5D591921F4F078C0BABEDC69B540707E7914</string>
 			<key>IDESourceControlWCCName</key>
 			<string>IOS</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BF891C2EC18FFF15CDB04ACE153DDE5ADB367021</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS-Customized-Banner</string>
 		</dict>
 	</array>
 </dict>

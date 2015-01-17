@@ -57,7 +57,7 @@
                                                            buttons:buttonsList
                                                   autoDismissAfter:duration
                                                      animationType:kBannerAnimationTop
-                                                      afterDismiss:^(int buttonIndex) {
+                                                      afterDismiss:^(NSInteger buttonIndex) {
                                                           [self bannerDismissedForIndex:buttonIndex];
                                                     }];
     }
@@ -65,7 +65,7 @@
 
 -(void)bannerDismissedForIndex:(NSInteger)_index {
     if (_index >= 0) {
-        NSLog(@"Button Clicked Index:%d",_index);
+        NSLog(@"Button Clicked Index:%ld",_index);
     } else {
         NSLog(@"Tap/Auto Dismiss");
     }
